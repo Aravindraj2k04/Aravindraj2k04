@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2023/09/AI-DarkMode-1.png?fit=1200%2C630)]
+![MasterHead](https://github.blog/wp-content/uploads/2023/09/AI-DarkMode-1.png?fit=1200%2C630)
 <h1 align="center">Hi 👋, I'm M.Aravindraj</h1>
 <h3 align="center">An undergrad in Computer science and business systems from India.</h3>
 <img alight="right" alt="coding" width="300" src="https://camo.githubusercontent.com/ec4a68367aa02e4a7437dc2cd3b619a7ec50be09f6152f182f4123b6a4f012d5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
